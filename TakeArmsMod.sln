@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord.Mod.mm", "Discord.Mod.mm\Discord.Mod.mm.csproj", "{EA294C47-974C-4BBB-8AC0-A87BC3F7AB88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeArms.Mod.mm", "TakeArms.Mod.mm\TakeArms.Mod.mm.csproj", "{323673E3-CF85-4DC8-9190-5A1E682002B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{323673E3-CF85-4DC8-9190-5A1E682002B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{323673E3-CF85-4DC8-9190-5A1E682002B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{323673E3-CF85-4DC8-9190-5A1E682002B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{323673E3-CF85-4DC8-9190-5A1E682002B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA294C47-974C-4BBB-8AC0-A87BC3F7AB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA294C47-974C-4BBB-8AC0-A87BC3F7AB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA294C47-974C-4BBB-8AC0-A87BC3F7AB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA294C47-974C-4BBB-8AC0-A87BC3F7AB88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

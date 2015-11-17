@@ -1,0 +1,8 @@
+bin/
+obj/
+*.userprefs
+*/bin/
+*/obj/
+*/*.sln
+*/*.userprefs
+
